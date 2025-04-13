@@ -22,7 +22,7 @@ Powered by **LangChain**, **HuggingFace Transformers**, **Chroma Vector DB** and
 
 ## 📁 Project Structure
 
-├── main.py # FastAPI endpoints ├── rag_utils.py # Core RAG pipeline (load, split, embed, retrieve, answer) ├── chroma_store/ # Directory to persist Chroma vector store ├── requirements.txt # Python dependencies
+├── main.py # FastAPI endpoints ├── rag_utils.py # Core RAG pipeline (load, split, embed, retrieve, answer) ├── chroma_store/ # Directory to persist Chroma vector store ├── 
 
 | Component        | Purpose                         |
 |------------------|----------------------------------|
